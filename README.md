@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Joaquín</h1>
+<h1 align="center">Hhola 👋, soy Joaquín</h1>
 <h3 align="center">Finales de laboratorio resueltos de AYED2</h3>
 
-- 📫 How to reach me **joaquin.sosa537@gmail.com**
+- 📫 Alguna duda o pregunta: **joaquin.sosa537@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
